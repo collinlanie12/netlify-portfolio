@@ -1,0 +1,14 @@
+{
+  "name": "netlify-portfolio",
+  "version": "1.0.0",
+  "description": "my portfolio built using typescript",
+  "main": "client/index.tsx",
+  "scripts": {
+    "start": "cd client && yarn start",
+    "build": "cd client && yarn build",
+    "test": "cd client && yarn test"
+  },
+  "repository": "git@github.com:collinlanie12/netlify-portfolio.git",
+  "author": "Collin Lanier <collinlanier12@gmail.com>",
+  "license": "MIT"
+}
